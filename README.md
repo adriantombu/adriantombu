@@ -4,7 +4,7 @@ I'm a Rust & Typescript developper from France interested in open-source & priva
 
 ### 👨🏻‍💻 About Me
 
-- 👯 I’m looking for a Rust open-source role on a 4-day week as a contractor
+- 👯 I’m looking to be a paid contributor in open-source projects in Rust, Node.js & TypeScript
 - 🔭 I’m currently working on [Orion](https://github.com/adriantombu/orion), [Amazon Alternatives](https://github.com/amazon-alternatives/extension), and other open-source projects
 - 🎓  I'm interested in learning more about database internals and data structures
 - 📝 I sometimes write articles on [https://blog.otso.fr/](https://blog.otso.fr/)
